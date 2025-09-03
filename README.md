@@ -106,7 +106,7 @@ align="left"
   <img
     alt="GitHub Stats"
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=nsplugins&show_icons=true&theme=transparent&count_private=true&hide=stars,prs,issues,contribs"
+    src="https://github-readme-stats.vercel.app/api?username=dev-ns-plugins&show_icons=true&theme=transparent&count_private=true&hide=stars,prs,issues,contribs"
   />
 
   <img
