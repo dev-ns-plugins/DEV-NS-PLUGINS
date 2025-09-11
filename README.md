@@ -2,7 +2,7 @@
 
 
 
-----------
+
 <p  align="center">
 
 Sou apaixonado por tecnologia, buscando unir <b>desenvolvimento backend</b> e <b>cibersegurança ofensiva</b>.<br/>
@@ -36,22 +36,8 @@ Desenvolvemos soluções inovadoras, robustas e escaláveis para atender suas ne
 
 ## 🚀 Tecnologias & Ferramentas
 
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/> <img src="" width="50"/> <img src="" width="50"/> <img src="" width="50"/> </div>
-
-----------
-
-## 🛠️ Projetos em Destaque
-
--   🔐 [NS Authenticator](https://github.com/dev-ns-plugins/ns-authenticator)  
-    Sistema de autenticação seguro com JWT e OAuth2, integrado com MongoDB e Redis.
-    
--   ⚙️ [Plugin Optimizer](https://github.com/dev-ns-plugins/plugin-optimizer)  
-    Plugin para servidores com foco em performance e escalabilidade, escrito em Kotlin.
-    
--   📡 [Telemetry Tracker](https://github.com/dev-ns-plugins/telemetry-tracker)  
-    Ferramenta de observabilidade com Prometheus e Grafana para monitoramento em tempo real.
-    
-
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/> </div>
+ 
 ----------
 
 ## 📊 Estatísticas
